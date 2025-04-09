@@ -1,5 +1,4 @@
 'use srict';
-
 // <    >   =>
     
     window.addEventListener('DOMContentLoaded', () => {
